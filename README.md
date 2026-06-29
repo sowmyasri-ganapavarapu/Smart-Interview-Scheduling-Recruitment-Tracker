@@ -47,10 +47,8 @@ This project focuses on reducing manual effort in interview management and impro
 4. Schedule Interview
 5. Update Recruitment Status
 6. View Candidate Status
-
----
-As I wrap up this project, I am happy to share the outcome of my learning journey. This project helped me improve my Python, MySQL, and problem-solving skills while building a simple recruitment management system.
-                                                                                    THANK YOU!
+   
+As I wrap up this project, I am happy to share the outcome of my learning journey. This project helped me improve my Python, MySQL, and problem-solving skills while building a simple recruitment management system.THANK YOU!
 ---
 
 **Contributed by:** Sowmya Sri Ganapavarapu  
