@@ -49,6 +49,7 @@ This project focuses on reducing manual effort in interview management and impro
 6. View Candidate Status
    
 As I wrap up this project, I am happy to share the outcome of my learning journey. This project helped me improve my Python, MySQL, and problem-solving skills while building a simple recruitment management system. Thank you!
+
 ---
 
 **Contributed by:** Sowmya Sri Ganapavarapu  
