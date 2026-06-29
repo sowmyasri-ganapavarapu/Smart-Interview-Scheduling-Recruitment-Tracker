@@ -49,16 +49,6 @@ This project focuses on reducing manual effort in interview management and impro
 6. View Candidate Status
 
 ---
-
-## 🚀 Future Enhancements
-
-- Email notifications for interview schedules
-- Search candidates by name
-- Dashboard with recruitment statistics
-- Graphical User Interface (GUI)
-
----
-
 ##
 
 As I wrap up this project, I am happy to share the outcome of my learning journey. This project helped me improve my Python, MySQL, and problem-solving skills while building a simple recruitment management system.
