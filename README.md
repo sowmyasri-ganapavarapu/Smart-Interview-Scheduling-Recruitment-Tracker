@@ -2,6 +2,7 @@
 The Smart Interview Scheduling & Recruitment Tracker is a Python and MySQL-based project designed to simplify and automate the recruitment process. It enables HR teams to manage candidate details, schedule interviews efficiently, and track recruitment status in a structured and organized manner.
 
 This project focuses on reducing manual effort in interview management and improving accuracy in scheduling and status tracking.
+---
 📁 Repository Structure
 
 ├── candidate.py
